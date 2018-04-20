@@ -1,1 +1,4 @@
-# BMSTU_hack_2018_resources
+# Ресурсы
+
+* Дизайн (Sketch)
+* Презентация (Keynote)
